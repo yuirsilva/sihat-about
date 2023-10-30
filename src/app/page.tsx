@@ -13,16 +13,17 @@ const page = () => {
           <Paragraph className="text-muted-foreground">
             Nosso objetivo com a plataforma{" "}
             <strong className="font-bold">Sihat</strong> é utilizar a inovação
-            tecnológica para aprimorar a assistência médica. Treinar modelos em
-            conjuntos de dados diversos, abrangendo várias condições médicas e
-            modalidades de imagens.
+            tecnológica para aprimorar a assistência médica. Uma das etapas é
+            treinar modelos de inteligência artificial em conjuntos de dados
+            diversos (<em>datasets</em>), e assim, abranger várias condições
+            médicas e modalidades de imagens.
           </Paragraph>
           <Paragraph className="text-muted-foreground">
-            Algoritmos de segmentação têm aprimorado o diagnóstico de tumores
-            cerebrais. Esses algoritmos destacam áreas importantes em imagens
-            médicas, auxiliando profissionais a identificar com precisão o
-            tamanho, forma e localização do tumor, o que é essencial para o
-            diagnóstico e planejamento do tratamento.
+            Usamos algoritmos de segmentação para identificar tumores cerebrais.
+            Esses algoritmos destacam áreas importantes em imagens médicas,
+            auxiliando profissionais a identificar com precisão o tamanho, forma
+            e localização do tumor, o que é essencial para o diagnóstico e
+            planejamento do tratamento.
           </Paragraph>
           <Paragraph className="text-muted-foreground">
             Nosso foco principal está voltado, inicialmente, para o diagnóstico
